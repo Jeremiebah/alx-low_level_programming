@@ -1,0 +1,1 @@
+my_putchar.o my_islower.o my_isalpha.o my_abs.o my_isupper.o my_isdigit.o my_strlen.o my_puts.o _strcpy.c _atoi.c _strcat.c _strncat.c _strncpy.c _strcmp.c _memset.c _memcpy.c _strchr.c _strspn.c _strpbrk.c _strstr.c

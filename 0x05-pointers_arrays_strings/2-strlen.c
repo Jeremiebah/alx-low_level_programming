@@ -1,0 +1,13 @@
+/*header*/
+int _strlen(char *s /**
+		     *main entry
+		     */)
+{
+int length = 0;
+while (*s != '\0')
+{
+length++;
+s++;
+}
+return (length);
+}

@@ -1,0 +1,4 @@
+!#/bin/bash
+
+ar rcs libmy.a *.o
+gcc -o myprogram myprogram.c -L. -lmy -I.
