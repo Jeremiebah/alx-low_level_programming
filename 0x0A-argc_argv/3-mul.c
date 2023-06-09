@@ -1,4 +1,4 @@
-/* a program that compares two strings */
+/* a program that multiplies two numbers */
 #include <stdio.h>
 #include <stdlib.h>
 
