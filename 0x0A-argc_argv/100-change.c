@@ -4,7 +4,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int calculateCoins(int amount) {
+int calculateCoins(int amount/**
+			      *
+			      */) {
     int coins[] = {25, 10, 5, 2, 1};
     int coinCount = sizeof(coins) / sizeof(coins[0]);
     int count = 0;
