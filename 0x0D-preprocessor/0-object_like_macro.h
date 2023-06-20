@@ -1,4 +1,6 @@
-/* preprocessor */
-#define SIZE 1024 /**
-		   * the header file
-		   */
+#ifndef OBJECT_LIKE_MACRO_H
+#define OBJECT_LIKE_MACRO_H
+
+#define SIZE 1024
+
+#endif /* MYHEADER_H */
